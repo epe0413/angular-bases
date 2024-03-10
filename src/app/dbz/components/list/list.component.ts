@@ -8,7 +8,6 @@ import { Character } from '../../interfaces/character.interface';
 })
 export class ListComponent {
 
-
   @Input()
   public characterList: Character[] =[
     {
